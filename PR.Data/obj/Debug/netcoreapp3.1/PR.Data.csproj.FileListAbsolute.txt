@@ -1,0 +1,15 @@
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Data.deps.json
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Data.dll
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.csprojAssemblyReference.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.AssemblyInfoInputs.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.AssemblyInfo.cs
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Data.runtimeconfig.json
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Data.runtimeconfig.dev.json
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Data.pdb
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.dll
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.pdb
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.genruntimeconfig.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Entity.dll
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\bin\Debug\netcoreapp3.1\PR.Entity.pdb
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Data\obj\Debug\netcoreapp3.1\PR.Data.csproj.CopyComplete

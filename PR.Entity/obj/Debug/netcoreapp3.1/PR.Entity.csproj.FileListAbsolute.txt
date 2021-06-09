@@ -1,0 +1,9 @@
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\bin\Debug\netcoreapp3.1\PR.Entity.deps.json
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\bin\Debug\netcoreapp3.1\PR.Entity.dll
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\bin\Debug\netcoreapp3.1\PR.Entity.pdb
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.csprojAssemblyReference.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.AssemblyInfoInputs.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.AssemblyInfo.cs
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.dll
+C:\Users\Aws92\source\repos\Test_API_PR\PR.Entity\obj\Debug\netcoreapp3.1\PR.Entity.pdb
